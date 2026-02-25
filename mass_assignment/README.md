@@ -1,6 +1,6 @@
-# Mass Assignment: Wrong Move on the API, Real Off-Track Moment
+# Mass assignment: Wrong move on the API, Real off-track moment
 
-The FIA has a web application to manage all its drivers—both professional and amateur. Since it's open to the public, anyone can create an account.
+The IAF (International Automobile Federation) has a web application to manage all its drivers—both professional and amateur. Since it's open to the public, anyone can create an account.
 
 A couple of security researchers did just that, and while poking around the app, they noticed that all profile modifications go through a single endpoint: PUT /api/user.
 This immediately raised a red flag: could this be vulnerable to **Mass Assignment**?
@@ -18,4 +18,4 @@ How to protect yourself:
 
 Sources:
 - [Article disclosing the vulnerability](https://ian.sh/fia)
-- [Mass Assignment on OWASP](https://owasp.org/www-community/vulnerabilities/Mass_Assignment)🚨☠️
+- [Mass Assignment on OWASP](https://owasp.org/www-community/vulnerabilities/Mass_Assignment)
