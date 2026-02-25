@@ -1,4 +1,4 @@
-# From Amateur Driver to FIA Admin
+# Mass Assignment: Wrong Move on the API, Real Off-Track Moment
 
 The FIA has a web application to manage all its drivers—both professional and amateur. Since it's open to the public, anyone can create an account.
 
@@ -18,4 +18,4 @@ How to protect yourself:
 
 Sources:
 - [Article disclosing the vulnerability](https://ian.sh/fia)
-- [Mass Assignment on OWASP](https://owasp.org/www-community/vulnerabilities/Mass_Assignment)
+- [Mass Assignment on OWASP](https://owasp.org/www-community/vulnerabilities/Mass_Assignment)🚨☠️
